@@ -15,15 +15,15 @@ Our mission: Empower brands with scalable apps, AI-driven insights, and impactfu
 # 🚀 **Our Projects**
 ---
 
-| <img src="./assets/flaty.png" height="60"/> <br> **Flaty** | <img src="./assets/blockatie.png" height="60"/> <br> **Blockatie** |
+| <img src="./assets/flaty.png" height="60"/> <br> **Flaty** | <img src="./blue.png" height="60"/> <br> **Blockatie** |
 |---------------------------------------------------|--------------------------------------------------|
 | Smarter property deals with live chat, trending listings, and property management. | Ship smarter with real‑time tracking, shipment management, and order insights. |
 
-| <img src="./assets/abu-rafiq.png" height="60"/> <br> **Abu Rafiq Butcher** | <img src="./assets/quickly.png" height="60"/> <br> **Quickly** |
+| <img src="./assets/abu-rafiq.png" height="60"/> <br> **Abu Rafiq Butcher** | <img src=".Quickly.png" height="60"/> <br> **Quickly** |
 |---------------------------------------------------|--------------------------------------------------|
 | Food ordering with delivery, pickup, dine‑in, and secure payments. | AI‑powered learning hub for books, podcasts, blogs, and news. |
 
-| <img src="./assets/specoptics.png" height="60"/> <br> **SpecOptics** | <img src="./assets/sohagaan.png" height="60"/> <br> **Sohagaan** |
+| <img src="./assets/specoptics.png" height="60"/> <br> **SpecOptics** | <img src=".Sohagan.png" height="60"/> <br> **Sohagaan** |
 |--------------------------------------------------|--------------------------------------------------|
 | Premium eyewear e‑commerce with curated sunglasses and prescription glasses. | Online jewelry store built on Shopify with modern design and secure checkout. |
 
