@@ -5,15 +5,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bangers&weight=700&size=30&pause=1000&color=FFFFFF&width=800&lines=We+Build+Web+Apps;AI+Solutions;Digital+Marketing+Campaigns;Graphic+Design+Services;Social+Media+Management)](https://git.io/typing-svg)
 
 # 👋 **Welcome to Hifah Technologies**
----
+
 
 We are a full-spectrum digital innovation company delivering **technology solutions** and **creative services** to help businesses grow.  
 Our mission: Empower brands with scalable apps, AI-driven insights, and impactful digital marketing.
 
----
+
 
 # 🚀 **Our Projects**
----
 
 | <img src="./assets/flaty.png" height="60"/> <br> **Flaty** | <img src="./blue.png" height="60"/> <br> **Blockatie** |
 |---------------------------------------------------|--------------------------------------------------|
@@ -27,10 +26,10 @@ Our mission: Empower brands with scalable apps, AI-driven insights, and impactfu
 |--------------------------------------------------|--------------------------------------------------|
 | Premium eyewear e‑commerce with curated sunglasses and prescription glasses. | Online jewelry store built on Shopify with modern design and secure checkout. |
 
----
+
 
 # 🛎️ **Our Services**
----
+
 
 | <img src="./assets/social-media.png" height="40"/> <br> **Social Media Management** | <img src="./assets/service.png" height="40"/> <br> **Digital Services & Branding** |
 |---------------------------------------------------|--------------------------------------------------|
@@ -40,10 +39,10 @@ Our mission: Empower brands with scalable apps, AI-driven insights, and impactfu
 |---------------------------------------------------|--------------------------------------------------|
 | Hybrid cloud deployment, secure storage, and lifecycle asset management. | AI-powered solutions for learning, analytics, and customer engagement. |
 
----
+
 
 # 🔧 **Tech Stack**
----
+
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -56,19 +55,19 @@ Our mission: Empower brands with scalable apps, AI-driven insights, and impactfu
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
----
+
 
 # 📊 **GitHub Stats**
----
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hifahtech&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hifahtech&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=hifahtech&theme=radical&date_format=j%20M%5B%20Y%5D)
 
----
+
 
 # 🌍 **Connect With Us**
----
+
 
 [![Website](https://img.shields.io/badge/Website-hifahtech.com-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hifahtech.com)  
 [![Email](https://img.shields.io/badge/Email-info%40hifahtech.com-EB4434?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@hifahtech.com)  
