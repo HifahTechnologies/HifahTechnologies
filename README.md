@@ -20,7 +20,7 @@ We’re a full-service digital innovation company, combining technology and crea
 |---------------------------------------------------|--------------------------------------------------|
 | Food ordering with delivery, pickup, dine‑in, and secure payments. | AI‑powered learning hub for books, podcasts, blogs, and news. |
 
-| <img src="./assets/specoptics.png" height="60"/> <br> **SpecOptics** | <img src="assets/Sohagaan.png" height="60"/> <br> **Sohagaan** |
+| <img src="assets/Specoptics.png" height="60"/> <br> **SpecOptics** | <img src="assets/Sohagaan.png" height="60"/> <br> **Sohagaan** |
 |--------------------------------------------------|--------------------------------------------------|
 | Premium eyewear e‑commerce with curated sunglasses and prescription glasses. | Online jewelry store built on Shopify with modern design and secure checkout. |
 
