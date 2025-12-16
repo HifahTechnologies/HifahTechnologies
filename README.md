@@ -18,7 +18,7 @@ Our mission: Empower brands with scalable apps, AI-driven insights, and impactfu
 |---------------------------------------------------|--------------------------------------------------|
 | Smarter property deals with live chat, trending listings, and property management. | Ship smarter with real‑time tracking, shipment management, and order insights. |
 
-| <img src="./assets/abu-rafiq.png" height="60"/> <br> **Abu Rafiq Butcher** | <img src=".Quickly.png" height="60"/> <br> **Quickly** |
+| <img src="./assets/abu-rafiq.png" height="60"/> <br> **Abu Rafiq Butcher** | <img src=".assets/Quickly.png" height="60"/> <br> **Quickly** |
 |---------------------------------------------------|--------------------------------------------------|
 | Food ordering with delivery, pickup, dine‑in, and secure payments. | AI‑powered learning hub for books, podcasts, blogs, and news. |
 
