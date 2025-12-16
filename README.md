@@ -56,21 +56,25 @@ Our mission: Empower brands with scalable apps, AI-driven insights, and impactfu
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 
-
 # 📊 **GitHub Stats**
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HifahTechnologies&show_icons=true&title_color=00AEEF&text_color=FFFFFF&icon_color=00AEEF&bg_color=0A0A0A" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HifahTechnologies&layout=compact&title_color=00AEEF&text_color=FFFFFF&icon_color=00AEEF&bg_color=0A0A0A" alt="Top Languages"/>
+  <br/>
+  <p align="center">
+  <img src="https://streak-stats.demolab.com?user=HifahTechnologies&theme=default&ring=00AEEF&fire=00C853&currStreakLabel=00AEEF&background=0A0A0A&stroke=FFFFFF" alt="GitHub Streak"/>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hifahtech&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hifahtech&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=hifahtech&theme=radical&date_format=j%20M%5B%20Y%5D)
 
 
 
 # 🌍 **Connect With Us**
 
 
-[![Website](https://img.shields.io/badge/Website-hifahtech.com-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hifahtech.com)  
-[![Email](https://img.shields.io/badge/Email-info%40hifahtech.com-EB4434?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@hifahtech.com)  
+[![Website](https://img.shields.io/badge/Website-hifahtech.com-111111?style=for-the-badge&logo=google-chrome&logoColor=white)]([(https://www.hifahtechnologies.com/)])  
+[![Email](https://img.shields.io/badge/Email-info%40hifahtech.com-EB4434?style=for-the-badge&logo=gmail&logoColor=white)](services@hifahtechnologies.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hifah%20Technologies-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/hifah-technologies/)  
-[![Instagram](https://img.shields.io/badge/Instagram-@hifahtech-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hifahtech)  
-[![X/Twitter](https://img.shields.io/badge/X-@hifahtech-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hifahtech)
+[![Instagram](https://img.shields.io/badge/Instagram-@hifahtech-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hifahtechnologies)  
+[![X/Twitter](https://img.shields.io/badge/X-@hifahtech-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hifahtechnologies)
