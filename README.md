@@ -7,9 +7,7 @@
 # 👋 **Welcome to Hifah Technologies**
 
 
-We are a full-spectrum digital innovation company delivering **technology solutions** and **creative services** to help businesses grow.  
-Our mission: Empower brands with scalable apps, AI-driven insights, and impactful digital marketing.
-
+We’re a full-service digital innovation company, combining technology and creativity to help businesses thrive. Our mission is simple: to empower brands with scalable apps, AI-driven insights, and digital marketing that truly makes an impact.
 
 
 # 🚀 **Our Projects**
@@ -58,12 +56,11 @@ Our mission: Empower brands with scalable apps, AI-driven insights, and impactfu
 
 # 📊 **GitHub Stats**
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=HifahTechnologies&show_icons=true&title_color=00AEEF&text_color=FFFFFF&icon_color=00AEEF&bg_color=0A0A0A" alt="GitHub Stats"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HifahTechnologies&layout=compact&title_color=00AEEF&text_color=FFFFFF&icon_color=00AEEF&bg_color=0A0A0A" alt="Top Languages"/>
   <br/>
-  <p align="center">
   <img src="https://streak-stats.demolab.com?user=HifahTechnologies&theme=default&ring=00AEEF&fire=00C853&currStreakLabel=00AEEF&background=0A0A0A&stroke=FFFFFF" alt="GitHub Streak"/>
 </p>
 
