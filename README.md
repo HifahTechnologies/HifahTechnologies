@@ -70,7 +70,8 @@ We’re a full-service digital innovation company, combining technology and crea
 # 🌍 **Connect With Us**
 
 
-[![Website](https://img.shields.io/badge/Website-hifahtechnologies.com-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hifahtechnologis.com) 
+[![Website](https://img.shields.io/badge/https://hifahtechnologis.com-111111?style=for-the-badge&logo=google-chrome&logoColor=white)
+<br/>
 [![Email](https://img.shields.io/badge/Email-infohifahtechnologies.com-EB4434?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@hifahtechnologies.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-HifahTechnologies-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/hifah-technologies/) 
 [![Instagram](https://img.shields.io/badge/Instagram-@hifahtechnologies-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hifahtechnologies) 
