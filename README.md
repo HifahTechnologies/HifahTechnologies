@@ -71,10 +71,6 @@ We’re a full-service digital innovation company, combining technology and crea
   <img src="https://github-readme-stats.vercel.app/api?username=HifahTechnologies&show_icons=true&title_color=00AEEF&text_color=FFFFFF&icon_color=00AEEF&bg_color=0A0A0A" alt="GitHub Stats"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HifahTechnologies&layout=compact&title_color=00AEEF&text_color=FFFFFF&icon_color=00AEEF&bg_color=0A0A0A" alt="Top Languages"/>
-  <br/> 
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Hifahtechnologies&theme=dark" alt="GitHub Streak" />
-  </a>
 </p>
 
 
