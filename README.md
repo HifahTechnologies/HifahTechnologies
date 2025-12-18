@@ -26,16 +26,22 @@ We’re a full-service digital innovation company, combining technology and crea
 
 
 
-# 🛎️ **Our Services**
+# 🛎️ Our Services
 
 
 | <img src="./assets/social-media.png" height="40"/> <br> **Social Media Management** | <img src="./assets/service.png" height="40"/> <br> **Digital Services & Branding** |
 |---------------------------------------------------|--------------------------------------------------|
-| Content calendars, engagement strategies, reporting, and influencer outreach. | Logo design, brand guidelines, marketing collateral, and campaign strategy. |
+| Strategy, content calendars, reporting, and influencer outreach for brand engagement. | Logo design, brand identity, simple marketing assets, and campaign planning. |
+
+| <img src="./assets/web.png" height="40"/> <br> **Web Development** | <img src="./assets/app.png" height="40"/> <br> **App Development** |
+|---------------------------------------------------|--------------------------------------------------|
+| Responsive websites optimized for performance, SEO, and business growth. | Mobile and desktop apps with smooth UX and scalable architecture. |
 
 | <img src="./assets/cloud.png" height="40"/> <br> **Cloud & Infrastructure** | <img src="./assets/ai.png" height="40"/> <br> **AI & Automation** |
 |---------------------------------------------------|--------------------------------------------------|
-| Hybrid cloud deployment, secure storage, and lifecycle asset management. | AI-powered solutions for learning, analytics, and customer engagement. |
+| Hybrid cloud setup, secure storage, and asset lifecycle management. | AI tools for analytics, learning, automation, and customer engagement. |
+
+
 
 
 
@@ -50,8 +56,13 @@ We’re a full-service digital innovation company, combining technology and crea
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+
 
 
 # 📊 **GitHub Stats**
@@ -60,9 +71,12 @@ We’re a full-service digital innovation company, combining technology and crea
   <img src="https://github-readme-stats.vercel.app/api?username=HifahTechnologies&show_icons=true&title_color=00AEEF&text_color=FFFFFF&icon_color=00AEEF&bg_color=0A0A0A" alt="GitHub Stats"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HifahTechnologies&layout=compact&title_color=00AEEF&text_color=FFFFFF&icon_color=00AEEF&bg_color=0A0A0A" alt="Top Languages"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=HifahTechnologies&theme=default&ring=00AEEF&fire=00C853&currStreakLabel=00AEEF&background=0A0A0A&stroke=FFFFFF" alt="GitHub Streak"/>
+  <br/> 
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Hifahtechnologies&theme=dark" alt="GitHub Streak" />
+  </a>
 </p>
+
 
 
 
