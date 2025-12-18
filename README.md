@@ -70,9 +70,9 @@ We’re a full-service digital innovation company, combining technology and crea
 # 🌍 **Connect With Us**
 
 
-[![Website](https://img.shields.io/badge/website-https://hifahtechnologis.com)
-<br/>
-[![Email](https://img.shields.io/badge/Email-infohifahtechnologies.com-EB4434?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@hifahtechnologies.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-HifahTechnologies-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/hifah-technologies/) 
+[![Website](https://img.shields.io/badge/Website-hifahtechnologies.com-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hifahtechnologies.com) 
+[![Email](https://img.shields.io/badge/Email-info%40hifahtechnologies.com-EB4434?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@hifahtechnologies.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-HifahTechnologies-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/hifahtechnologies/) 
 [![Instagram](https://img.shields.io/badge/Instagram-@hifahtechnologies-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hifahtechnologies) 
 [![X/Twitter](https://img.shields.io/badge/X-@hifahtechnologies-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hifahtechnologies)
+
