@@ -37,7 +37,7 @@ We’re a full-service digital innovation company, combining technology and crea
 |---------------------------------------------------|--------------------------------------------------|
 | Responsive websites optimized for performance, SEO, and business growth. | Mobile and desktop apps with smooth UX and scalable architecture. |
 
-| <img src="assets/Cloud & Infrastructure.png" height="40"/> <br> **Cloud & Infrastructure** | <img src="/assets/ai.png" height="40"/> <br> **AI & Automation** |
+| <img src="assets/Cloud & Infrastructure.png" height="40"/> <br> **Cloud & Infrastructure** | <img src="assets/AI png" height="40"/> <br> **AI & Automation** |
 |---------------------------------------------------|--------------------------------------------------|
 | Hybrid cloud setup, secure storage, and asset lifecycle management. | AI tools for analytics, learning, automation, and customer engagement. |
 
