@@ -29,15 +29,15 @@ We’re a full-service digital innovation company, combining technology and crea
 # 🛎️ Our Services
 
 
-| <img src=".assets/Social Media Management.png" height="40"/> <br> **Social Media Management** | <img src="./assets/service.png" height="40"/> <br> **Digital Services & Branding** |
+| <img src="assets/Social Media" height="40"/> <br> **Social Media Management** | <img src="assets/Digital Services & Branding.png" height="40"/> <br> **Digital Services & Branding** |
 |---------------------------------------------------|--------------------------------------------------|
 | Strategy, content calendars, reporting, and influencer outreach for brand engagement. | Logo design, brand identity, simple marketing assets, and campaign planning. |
 
-| <img src="./assets/web.png" height="40"/> <br> **Web Development** | <img src="./assets/app.png" height="40"/> <br> **App Development** |
+| <img src="assets/Web Development.png" height="40"/> <br> **Web Development** | <img src="assets/App Development.png" height="40"/> <br> **App Development** |
 |---------------------------------------------------|--------------------------------------------------|
 | Responsive websites optimized for performance, SEO, and business growth. | Mobile and desktop apps with smooth UX and scalable architecture. |
 
-| <img src="./assets/cloud.png" height="40"/> <br> **Cloud & Infrastructure** | <img src="./assets/ai.png" height="40"/> <br> **AI & Automation** |
+| <img src="assets/Cloud & Infrastructure.png" height="40"/> <br> **Cloud & Infrastructure** | <img src="/assets/ai.png" height="40"/> <br> **AI & Automation** |
 |---------------------------------------------------|--------------------------------------------------|
 | Hybrid cloud setup, secure storage, and asset lifecycle management. | AI tools for analytics, learning, automation, and customer engagement. |
 
