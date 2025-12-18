@@ -29,7 +29,7 @@ We’re a full-service digital innovation company, combining technology and crea
 # 🛎️ Our Services
 
 
-| <img src="./assets/social-media.png" height="40"/> <br> **Social Media Management** | <img src="./assets/service.png" height="40"/> <br> **Digital Services & Branding** |
+| <img src=".assets/Social Media Management.png" height="40"/> <br> **Social Media Management** | <img src="./assets/service.png" height="40"/> <br> **Digital Services & Branding** |
 |---------------------------------------------------|--------------------------------------------------|
 | Strategy, content calendars, reporting, and influencer outreach for brand engagement. | Logo design, brand identity, simple marketing assets, and campaign planning. |
 
